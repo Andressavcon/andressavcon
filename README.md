@@ -30,6 +30,8 @@
   
   <a href="https://www.instagram.com/andressavcon">
   <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' height='30'>
+  
+  <img align="right" src="https://64.media.tumblr.com/dd763aa8a49d4889f33039ce6cf099cd/tumblr_mlot901XhS1so5mxwo1_500.gif" height="15%" width="15%"/>
 </div>
 
 <br>
@@ -37,9 +39,9 @@
 <h2 align="center">Repositórios Importantes</h2>
 <div align="center">  
   <a href="https://github.com/Andressavcon/interface-pag-inicial-instagram">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=interface-pag-inicial-instagram&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=interface-pag-inicial-instagram&theme=radical"/>
   
   <a href="https://github.com/Andressavcon/desafio-dio-poo">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=desafio-dio-poo&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=desafio-dio-poo&theme=radical"/>
 </div>
 
