@@ -14,5 +14,3 @@ Engenheira Civil em transição de carreira ✌🏽✨
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=desafio-dio-poo&theme=radical)](https://github.com/Andressavcon/desafio-dio-poo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=interface-pag-inicial-instagram&theme=radical)](https://github.com/Andressavcon/interface-pag-inicial-instagram)
 
 
-
-
