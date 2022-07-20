@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, meu nome é Andressa! </h1>
 
-Engenheira Civil em transição de carreira e constante aprendizado ✌🏽✨
-          
+<h2 align="center">Engenheira Civil em transição de carreira e constante aprendizado ✌🏽✨</h2>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressavcon&count_private=true&show_icons=true&theme=radical)](https://github.com/Andressavcon)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressavcon&layout=compact&theme=radical)](https://github.com/Andressavcon)
