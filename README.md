@@ -2,9 +2,7 @@
 
 <h4 align="center">Sou Engenheira Civil em transição de carreira e em constante aprendizado ✌🏽✨</h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressavcon&count_private=true&show_icons=true&theme=radical)](https://github.com/Andressavcon)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressavcon&layout=compact&theme=radical)](https://github.com/Andressavcon)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressavcon&count_private=true&show_icons=true&theme=radical)](https://github.com/Andressavcon) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressavcon&layout=compact&theme=radical)](https://github.com/Andressavcon)
 
 ## Conhecimento/Estudando:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height='40'/>
