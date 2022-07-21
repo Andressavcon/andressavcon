@@ -22,13 +22,6 @@
 </div>
 
 <br>
-
-##
-<div align="center">    
-![Snake animation](https://github.com/andressavcon/andressavcon/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-
 <h2 align="center">Minhas Redes Sociais</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/andressavcon">
@@ -51,4 +44,8 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=desafio-dio-poo&theme=radical"/>
 </div>
 
+##
+<div align="center">    
+![Snake animation](https://github.com/andressavcon/andressavcon/blob/output/github-contribution-grid-snake.svg)
+</div>
 
