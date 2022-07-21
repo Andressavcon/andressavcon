@@ -1,7 +1,15 @@
-<h1 align="center"> Olá, meu nome é Andressa! </h1>
+<h2 align="center"> Olá, meu nome é Andressa! </h2>
+<div>
+  <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="20%" width="20%"/>
+  <h4 align="center">Sou Engenheira Civil em transição de carreira e em constante aprendizado ✌🏽✨</h4> 
+</div>
 
-<h4 align="center">Sou Engenheira Civil em transição de carreira e em constante aprendizado ✌🏽✨</h4>
 <br>
+<br>
+<br>
+<br>
+
+##
 
 <div align="center">
   <a href="https://github.com/Andressavcon">
