@@ -45,3 +45,6 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=desafio-dio-poo&theme=radical"/>
 </div>
 
+<div>    
+     ![Snake animation](https://github.com/andressavcon/andressavcon/blob/output/github-contribution-grid-snake.svg)
+</div>
