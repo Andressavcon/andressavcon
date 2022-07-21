@@ -1,8 +1,9 @@
 <h1 align="center"> Olá, meu nome é Andressa! </h1>
 <div>
   <br>
+  <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="30%" width="30%"/>
   <br>
-  <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="20%" width="20%"/>
+  <br>
   <h3 align="center">Sou Engenheira Civil em transição de carreira <br>e em constante aprendizado ✌🏽✨</h3> 
 </div>
 
