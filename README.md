@@ -37,15 +37,13 @@
 
 <h2 align="center">Repositórios Importantes</h2>
 <div align="center">  
-  <a href="https://github.com/Andressavcon/interface-pag-inicial-instagram">
+  <a href="https://github.com/Andressavcon/interface-pag-inicial-instagram"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=interface-pag-inicial-instagram&theme=radical"/>
   
-  <a href="https://github.com/Andressavcon/desafio-dio-poo">
+  <a href="https://github.com/Andressavcon/desafio-dio-poo"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=desafio-dio-poo&theme=radical"/>
 </div>
 
 ##
-<div align="center">    
 ![Snake animation](https://github.com/andressavcon/andressavcon/blob/output/github-contribution-grid-snake.svg)
-</div>
 
