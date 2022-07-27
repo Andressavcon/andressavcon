@@ -53,6 +53,10 @@
   
   <a href="https://github.com/Andressavcon/desafio-dio-poo"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=desafio-dio-poo&theme=radical"/>
+  
+  <a href="https://github.com/Andressavcon/super-mario"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=super-mario&theme=radical"/>
+  
 </div>
 
 ##
