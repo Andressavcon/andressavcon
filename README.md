@@ -3,8 +3,9 @@
   <br>
   <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="30%" width="30%"/>
   <br>
-  <br>
-  <h3 align="center">Sou Engenheira Civil em transição de carreira <br>e em constante aprendizado ✌🏽✨</h3> 
+  <h4 align="center">Sou Engenheira civil em transição de carreira para a área da tecnologia, com foco em desenvolvimento front-end utilizando JavaScript e React.js. 
+
+</h3> 
 </div>
 
 <br>
