@@ -3,7 +3,7 @@
   <br>
   <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="30%" width="30%"/>
   <br>
-  <h4 align="center">Sou Engenheira civil em transição de carreira para a área da tecnologia, com foco em desenvolvimento front-end utilizando JavaScript e React.js. 
+  <h4 align="center">Sou Engenheira civil encantada com evolução e inovação, estou em transição de carreira para a área da tecnologia, com foco em Desenvolvimento de Software Fullstack.  
 
 </h3> 
 </div>
@@ -28,10 +28,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"/>
 
           
