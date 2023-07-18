@@ -2,7 +2,7 @@
 <div>
   <div>
   <br>
-  <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="30%" width="30%"/>
+  <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="40%" width="40%"/>
   <br>
   </div>
   <div>
