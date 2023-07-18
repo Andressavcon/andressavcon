@@ -1,10 +1,13 @@
 <h1 align="center"> Olá, meu nome é Andressa! </h1>
 <div>
+  <div>
   <br>
   <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="30%" width="30%"/>
   <br>
+  </div>
+  <div>
   <h4 align="center">Sou Engenheira civil encantada com evolução e inovação, estou em transição de carreira para a área da tecnologia, com foco em Desenvolvimento de Software Fullstack.  
-
+  </div>
 </h3> 
 </div>
 
