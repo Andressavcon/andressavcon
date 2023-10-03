@@ -8,9 +8,11 @@
   <div>
   <h4 align="center">Sou Engenheira civil encantada com evolução e inovação, 
     <br>
-    estou em transição de carreira para a área da tecnologia, 
+    estou em transição de carreira para a área da tecnologia.
     <br>
-    com foco em Desenvolvimento de Software Fullstack.  
+    Atualmente fazendo o curso da Cubos Academy de
+    <br>
+    Desenvolvimento de Software Fullstack.  
   </div>
 </h3> 
 </div>
@@ -28,17 +30,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressavcon&layout=compact&theme=radical"/>
 </div>
 
-<h2 align="center">Conhecimento/Estudando</h2>
+<h2 align="center">Skills</h2>
 <div align="center" style="display: inline_block">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"/>
-
-          
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"/>    
 </div>
 
 <br>
