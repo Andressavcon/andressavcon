@@ -50,7 +50,7 @@
 
 <h2 align="center">Repositórios Importantes</h2>
 <div align="center">  
-  <a href="https://github.com/Andressavcon/interface-pag-inicial-instagram"/>
+  <a href="https://github.com/Andressavcon/projeto-modulo-02-cubos-academy"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=interface-pag-inicial-instagram&theme=radical"/>
   
   <a href="https://github.com/Andressavcon/desafio-dio-poo"/>
