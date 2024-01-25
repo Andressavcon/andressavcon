@@ -53,8 +53,8 @@
   <a href="https://github.com/Andressavcon/projeto-modulo-02-cubos-academy"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=projeto-modulo-02-cubos-academy&theme=radical"/>
   
-  <a href="https://github.com/Andressavcon/desafio-dio-poo"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=desafio-dio-poo&theme=radical"/>
+  <a href="https://github.com/Andressavcon/projeto-modulo-03-cubos-academy"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=projeto-modulo-03-cubos-academy&theme=radical"/>
   
   <a href="https://github.com/Andressavcon/super-mario"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=super-mario&theme=radical"/>
