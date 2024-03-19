@@ -6,13 +6,9 @@
   <br>
   </div>
   <div>
-  <h4 align="center">Sou Engenheira civil encantada com evolução e inovação, 
-    <br>
-    estou em transição de carreira para a área da tecnologia.
-    <br>
-    Atualmente fazendo o curso da Cubos Academy de
-    <br>
-    Desenvolvimento de Software Fullstack.  
+  <h4 align="center">Sou gaúcha, mãe de pet e gamer nas horas vagas. <br>
+Ao longo da minha trajetória como engenheira, desenvolvi habilidades em resolver problemas e trabalhar em equipe. <br>
+Recentemente, concluí o curso de back-end e estou iniciando o front-end para me tornar um desenvolvedora Fullstack.
   </div>
 </h3> 
 </div>
@@ -43,7 +39,9 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"/> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="30" width="40"/>
 </div>
 
 <br>
