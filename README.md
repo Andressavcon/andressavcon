@@ -61,4 +61,6 @@ Recentemente, concluí o curso de back-end e estou iniciando o front-end para me
 
 ##
 
-![Snake animation](https://github.com/andressavcon/andressavcon/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Andressavcon/Andressavcon/output/snake.svg" alt="Snake animation" />
+
+###
