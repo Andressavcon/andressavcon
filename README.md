@@ -1,30 +1,31 @@
 <h1 align="center"> Olá, meu nome é Andressa! </h1>
-<div>
-  <div>
 
-  <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="30%" width="30%"/>
-</br>
-  </div>
-  <div align="center">
-  <h4>Sou gaúcha, mãe de pet e gamer nas horas vagas. <br>
-Ao longo da minha trajetória como engenheira, desenvolvi habilidades em resolver problemas e trabalhar em equipe. <br>
-Recentemente, concluí o curso de back-end e estou iniciando o front-end para me tornar um desenvolvedora Fullstack.
-  </div>
-</h4> 
+<div>
+<img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_400.gif" width='300px'/>
+
+<h6 align="left">
+
+Sou gaúcha, mãe de pet e gamer nas horas vagas.🐶🎮
+
+Minha trajetória na Programação tem sido diversificada e cheia de conhecimentos. Recentemente concluí o Desenvolvimento Backend, atualmente tenho me dedicado ao Desenvolvimento Frontend na Cubos Academy. 📚
+
+Estou fazendo também uma trilha de Desenvolvimento Fullstack +praTi, que aprofunda alguns dos conhecimentos adquiridos até o momento.🙌🏼🚀
+
+Estou sempre disponivel para trocar ideias e explorar novas oportunidades!🤝
+
+</h6>
+
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
-##
+<br><br><br>
 
 <div align="center">
   <a href="https://github.com/Andressavcon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressavcon&count_private=true&show_icons=true&theme=radical"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressavcon&layout=compact&theme=radical"/>
 </div>
+
+<br>
 
 <h2 align="center">Skills</h2>
 <div align="center" style="display: inline_block">
@@ -50,15 +51,10 @@ Recentemente, concluí o curso de back-end e estou iniciando o front-end para me
 <div align="center">  
   <a href="https://github.com/Andressavcon/projeto-modulo-02-cubos-academy"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=projeto-modulo-02-cubos-academy&theme=radical"/>
-  
   <a href="https://github.com/Andressavcon/projeto-modulo-03-cubos-academy"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=projeto-modulo-03-cubos-academy&theme=radical"/>
-  
   <a href="https://github.com/Andressavcon/super-mario"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=super-mario&theme=radical"/>
-  
 </div>
 
 ##
-
-
