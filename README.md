@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, meu nome é Andressa! </h1>
 
 <div>
-<img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_400.gif" width='300px'/>
+<img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_400.gif" width='250px'/>
 
 <h6 align="left">
 
