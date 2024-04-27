@@ -1,12 +1,12 @@
 <h1 align="center"> Olá, meu nome é Andressa! </h1>
 <div>
   <div>
-  <br>
+
   <img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_500.gif" height="30%" width="30%"/>
-  <br>
+</br>
   </div>
-  <div>
-  <h4 align="center">Sou gaúcha, mãe de pet e gamer nas horas vagas. <br>
+  <div align="center">
+  <h4>Sou gaúcha, mãe de pet e gamer nas horas vagas. <br>
 Ao longo da minha trajetória como engenheira, desenvolvi habilidades em resolver problemas e trabalhar em equipe. <br>
 Recentemente, concluí o curso de back-end e estou iniciando o front-end para me tornar um desenvolvedora Fullstack.
   </div>
