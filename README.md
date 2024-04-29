@@ -1,23 +1,28 @@
 <h1 align="center"> Olá, meu nome é Andressa! </h1>
 
-<div>
-<img align="right" src="https://64.media.tumblr.com/fe8562deba2ce1791f2c8af08a622da9/tumblr_mkrnrhTB6j1r998ieo1_400.gif" width='280px'/>
-
-<h6 align="left">
-
-Sou gaúcha, mãe de pet e gamer nas horas vagas.🐶🎮
-
-Minha trajetória na Programação tem sido diversificada e cheia de conhecimentos. Recentemente concluí o Desenvolvimento Backend, atualmente tenho me dedicado ao Desenvolvimento Frontend na Cubos Academy. 📚
-
-Estou fazendo também uma trilha de Desenvolvimento Fullstack +praTi, que aprofunda alguns dos conhecimentos adquiridos até o momento.🙌🏼🚀
-
-Estou sempre disponivel para trocar ideias e explorar novas oportunidades!🤝
-
-</h6>
+<div align="center"> 
+  <div>
+    <img align="right" src="https://github.com/Andressavcon/andressavcon/assets/106337542/01c7fedd-595e-411d-9f30-099a16120f1a" width='250px'/>
+  </div>
+  
+  <div>
+    <h5 align="center">
+    <br><br><br>
+    Sou gaúcha, mãe de pet e gamer nas horas vagas.🐶🎮 
+    <br>
+    Minha trajetória na Programação tem sido diversificada e cheia de conhecimentos.
+      <br>
+      Recentemente concluí o Desenvolvimento Backend, atualmente tenho me dedicado ao Desenvolvimento Frontend na Cubos Academy. 📚
+    <br>
+    Estou fazendo também uma trilha de Desenvolvimento Fullstack +praTi, que aprofunda alguns dos conhecimentos adquiridos até o momento.🙌🏼🚀
+    <br>
+    Estou sempre disponivel para trocar ideias e explorar novas oportunidades!🤝
+    </h5>
+  </div>
 
 </div>
 
-<br><br><br>
+<br><br><br><br>
 
 <div align="center">
   <a href="https://github.com/Andressavcon">
