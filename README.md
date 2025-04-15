@@ -12,11 +12,9 @@
     <br>
     Minha trajetória na Programação tem sido diversificada e cheia de conhecimentos.
       <br>
-      Recentemente concluí o Desenvolvimento Backend, atualmente tenho me dedicado ao Desenvolvimento Frontend na Cubos Academy. 📚
+      Desenvolvedora Fullstack com experiência prática em projetos que envolvem desde a prototipagem até o desenvolvimento completo de aplicações. No dia a dia, atuo com tecnologias como React, Next.js, Java com Spring Boot, MongoDB e PostgreSQL, além de também ter a oportunidade de trabalhar com aplicações desktop utilizando C# e Windows Forms. 
     <br>
-    Estou fazendo também uma trilha de Desenvolvimento Fullstack +praTi, que aprofunda alguns dos conhecimentos adquiridos até o momento.🙌🏼🚀
-    <br>
-    Estou sempre disponivel para trocar ideias e explorar novas oportunidades!🤝
+    Tenho familiaridade com metodologias ágeis, versionamento com Git/GitHub e testes automatizados utilizando ferramentas como Jest, React Testing Library, JUnit e Mockito. Ao longo da minha formação, participei de bootcamps e trilhas de desenvolvimento que fortaleceram meus conhecimentos no frontend e no backend, além de tecnologias como Angular, Node.js, TypeScript e Linux. ✨
     </h5>
   </div>
 
