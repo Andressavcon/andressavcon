@@ -8,13 +8,17 @@
   <div>
     <h5 align="center">
     <br><br><br>
-    Sou gaúcha, mãe de pet e gamer nas horas vagas.🐶🎮 
+    Sou gaúcha, mãe de pet e gamer nas horas vagas. 🐶🎮 
+    <br><br>
+    Atuo como Desenvolvedora Fullstack, trabalhando diariamente com React, Next.js, Java com Spring Boot, PostgreSQL, MongoDB e também um pouco de C#.
+    <br><br>
+    Participo da modelagem e implementação de funcionalidades desde a concepção até a entrega, envolvendo prototipação, desenvolvimento, integração de APIs REST e boas práticas de arquitetura.  
     <br>
-    Minha trajetória na Programação tem sido diversificada e cheia de conhecimentos.
-      <br>
-      Desenvolvedora Fullstack com experiência prática em projetos que envolvem desde a prototipagem até o desenvolvimento completo de aplicações. No dia a dia, atuo com tecnologias como React, Next.js, Java com Spring Boot, MongoDB e PostgreSQL, além de também ter a oportunidade de trabalhar com aplicações desktop utilizando C# e Windows Forms. 
-    <br>
-    Tenho familiaridade com metodologias ágeis, versionamento com Git/GitHub e testes automatizados utilizando ferramentas como Jest, React Testing Library, JUnit e Mockito. Ao longo da minha formação, participei de bootcamps e trilhas de desenvolvimento que fortaleceram meus conhecimentos no frontend e no backend, além de tecnologias como Angular, Node.js, TypeScript e Linux. ✨
+    Utilizo Jira com metodologias ágeis, versionamento com Git/GitHub.
+    <br><br>
+    Ao longo da minha formação e experiências práticas, desenvolvo habilidades em frontend, backend e UX/UI Design, ampliando minha visão sobre produtos digitais e soluções escaláveis.  
+    <br><br>
+    Sou grata por tudo que venho construindo e pelo crescimento contínuo.
     </h5>
   </div>
 
@@ -59,5 +63,3 @@
   <a href="https://github.com/Andressavcon/super-mario"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=super-mario&theme=radical"/>
 </div>
-
-##
