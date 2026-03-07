@@ -1,65 +1,81 @@
-<h1 align="center"> Olá, meu nome é Andressa! </h1>
+# Andressa Vargas Conrado
 
-<div align="center"> 
-  <div>
-    <img align="right" src="https://github.com/Andressavcon/andressavcon/assets/106337542/01c7fedd-595e-411d-9f30-099a16120f1a" width='250px'/>
-  </div>
-  
-  <div>
-    <h5 align="center">
-    <br><br><br>
-    Sou gaúcha, mãe de pet e gamer nas horas vagas. 🐶🎮 
-    <br><br>
-    Atuo como Desenvolvedora Fullstack, trabalhando diariamente com React, Next.js, Java com Spring Boot, PostgreSQL, MongoDB e também um pouco de C#.
-    <br><br>
-    Participo da modelagem e implementação de funcionalidades desde a concepção até a entrega, envolvendo prototipação, desenvolvimento, integração de APIs REST e boas práticas de arquitetura.  
-    <br>
-    Utilizo Jira com metodologias ágeis, versionamento com Git/GitHub.
-    <br><br>
-    Ao longo da minha formação e experiências práticas, desenvolvo habilidades em frontend, backend e UX/UI Design, ampliando minha visão sobre produtos digitais e soluções escaláveis.  
-    <br><br>
-    Sou grata por tudo que venho construindo e pelo crescimento contínuo.
-    </h5>
-  </div>
+### Full Stack Developer | Java • Spring Boot • React • Next.js • SQL
 
-</div>
+Full Stack Developer at **WEG**, focused on building **scalable, mission-critical systems**. I develop robust backend services using **Java (Spring Boot)** and modern frontend applications with **React and Next.js**, ensuring performance, maintainability, and strong architectural foundations.
 
-<br><br><br><br>
+With a background in **Civil Engineering specialized in Light Steel Framing**, I bring a **strong analytical mindset and structured problem-solving approach** to software engineering. My experience with **structural projects and CAD automation** helps me design systems that handle complex logic with precision and reliability.
 
-<div align="center">
-  <a href="https://github.com/Andressavcon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressavcon&count_private=true&show_icons=true&theme=radical"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressavcon&layout=compact&theme=radical"/>
-</div>
+---
 
-<br>
+# 🧰 Tech Stack
 
-<h2 align="center">Skills</h2>
-<div align="center" style="display: inline_block">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"/> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="30" width="40"/>
-</div>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-<br>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h2 align="center">Repositórios Importantes</h2>
-<div align="center">  
-  <a href="https://github.com/Andressavcon/projeto-modulo-02-cubos-academy"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=projeto-modulo-02-cubos-academy&theme=radical"/>
-  <a href="https://github.com/Andressavcon/projeto-modulo-03-cubos-academy"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=projeto-modulo-03-cubos-academy&theme=radical"/>
-  <a href="https://github.com/Andressavcon/super-mario"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=andressavcon&repo=super-mario&theme=radical"/>
-</div>
+### Data & Persistence
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![H2](https://img.shields.io/badge/H2-Database-blue?style=for-the-badge)
+
+### Tools & Engineering Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git_Flow-Workflow-orange?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Engineering-green?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-Tested-success?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-Process_Modeling-lightgrey?style=for-the-badge)
+
+---
+
+# 💼 Professional Experience
+
+## WEG  
+**Full Stack Developer**  
+📍 Jaraguá do Sul, Brazil  
+📅 Nov 2024 — Present
+
+### Systems Engineering
+Developing **industrial-scale internal systems**, managing both **frontend architecture and backend services** to ensure reliability and scalability.
+
+### CAD Automation
+Implementing **validation and traceability modules** for engineering workflows, reducing manual effort and improving process efficiency.
+
+### Full Stack Integration
+Designing **reusable frontend components** integrated with **Java/Spring Boot services** and **PostgreSQL/MongoDB data layers**.
+
+---
+
+# 🎓 Education
+
+**Postgraduate**  
+Light Steel Framing & Wood Systems — 2022
+
+**Bachelor's Degree**  
+Civil Engineering — 2019
+
+**Career Transition**
+Transitioned to the **technology sector in 2022**, focusing on **engineering-driven software development** and complex system design.
+
+---
+
+# 📫 Contact
+
+📍 Location: **Jaraguá do Sul, SC — Brazil**
+📧 Email: **andressavconrado@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/andressavcon/)
+
+---
+
+⭐ *Open to collaboration on engineering-driven software projects, scalable systems, and full stack architecture.*
