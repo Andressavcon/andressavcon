@@ -1,9 +1,9 @@
 # Andressa Vargas Conrado
-### Desenvolvedora Full Stack | Java • Spring Boot • React • Next.js • SQL
+### Desenvolvedora Full Stack | Java • Spring Boot • React • Next.js • TypeScript
 
-Desenvolvedora Full Stack com experiência em sistemas web voltados à área industrial. Trabalho com **Java (Spring Boot)** no backend e **React e Next.js** no frontend,com atenção à arquitetura e à qualidade do código.
+Desenvolvedora Full Stack com experiência no desenvolvimento de sistemas de ponta a ponta em ambiente industrial de grande porte. Atuo com **Java (Spring Boot)** no backend e **React/Next.js (TypeScript)** no frontend, aplicando princípios de SOLID, Clean Code e padrões de arquitetura para garantir manutenibilidade e escalabilidade.
 
-Tenho formação em **Engenharia Civil**, o que me deu uma base analítica que aplico na forma como estruturo e resolvo problemas de software. Minha experiência inclui **automação de processos, migração de sistemas legados e desenvolvimento de plataformas multilíngues com integração a IA**.
+Minha transição a partir da **Engenharia Civil** me proporcionou base analítica, raciocínio estruturado e foco em requisitos, qualidades que aplico diretamente na engenharia e qualidade do software que entrego. Tenho histórico de entrega autônoma em projetos de alta complexidade técnica, envolvendo **automação industrial (CAD), digitalização de processos e sistemas multilíngues integrados a Inteligência Artificial**.
 
 ---
 
@@ -21,54 +21,48 @@ Tenho formação em **Engenharia Civil**, o que me deu uma base analítica que a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Bancos de Dados
+### Bancos de Dados e Segurança
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-A61C00?style=for-the-badge&logo=keycloak&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<!--
 ### Testes e Qualidade de Código
+⚠️ Confirme antes de incluir: você usa JUnit 5, PMD, ESLint e Prettier no dia a dia?
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![PMD](https://img.shields.io/badge/PMD-Analyst-AA2222?style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+-->
 
 ### Ferramentas e Documentação
+<!-- ⚠️ Confirme antes de incluir: você usa Swagger e Postman? -->
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 💼 Experiência
+## 💼 Experiência Principal
 
-### WEG — Desenvolvedora Full Stack
+### WEG — Desenvolvedora Full Stack (Engenharia de Produto)
 📅 Nov 2024 — Presente
 
-#### 🛠️ Plataforma de Notas Técnicas
-Desenvolvimento da plataforma oficial de registros técnicos de engenharia.
+#### 🤖 Automação de Engenharia & CAD
+Desenvolvimento de um sistema para validação e montagem de componentes de engenharia.
+- **Contribuições:** Implementação de módulo backend em Java com arquitetura baseada em filas e priorização para reduzir o tempo de validação manual. Criação de aplicação desktop em C#/.NET integrada via API para automação e execução de montagens virtuais em softwares CAD.
+- **Impacto:** Redução do tempo de validação e eliminação de verificações manuais repetitivas.
 
-- **Contribuições:** Implementação de templates dinâmicos, integração com SAP, suporte a 8 idiomas e geração automática de PDF.
-- **Resultado:** Modernização da gestão de dados técnicos para múltiplos departamentos de engenharia.
+#### 📊 Digitalização & Segurança (Migração de Sistemas)
+Substituição de fluxos baseados em planilhas por sistema centralizado de gestão técnica.
+- **Contribuições:** Desenvolvimento de painéis CRUD com atualizações em tempo real utilizando React/Next.js e persistência em PostgreSQL. Estruturação do controle de identidade e acessos via Keycloak.
+- **Impacto:** Eliminação de retrabalho, centralização do controle de acesso e melhoria na rastreabilidade das informações.
 
-#### 🤖 Automação CAD com IA
-Desenvolvimento de um pipeline automatizado para validação de montagens CAD no SolidWorks.
-
-- **Contribuições:** Comunicação via API com IA generativa para verificação dimensional e monitoramento de filas em tempo real.
-- **Resultado:** Automatização de verificações repetitivas, aumentando a confiabilidade do processo.
-
-#### 📊 Gestão de Ativos Industriais
-Migração de dados estratégicos de ferramentaria de planilhas legadas para um sistema estruturado.
-
-- **Contribuições:** Painel administrativo com **Next.js e Ant Design** e backend em **PostgreSQL**.
-- **Resultado:** Substituição de arquivos Excel por uma ferramenta oficial de consulta e gestão de dados do setor.
-
----
-
-## 🎓 Formação
-
-- **Pós-graduação em Engenharia de Software** — PUC Minas (início ago/2026)
-- **Pós-graduação em Light Steel Framing** — ITIE (2022)
-- **Bacharelado em Engenharia Civil** — UCPel (2019)
+#### 🌐 Arquitetura Multilíngue com Inteligência Artificial
+Criação de sistema de documentação e notas técnicas com suporte a múltiplos idiomas.
+- **Contribuições:** Arquitetura do sistema com suporte a internacionalização (i18n). Implementação de integrações automáticas com sistemas corporativos (SAP) e serviço de IA para tradução técnica e padronização terminológica, com dados estruturados em MongoDB.
+- **Impacto:** Agilidade na comunicação e distribuição de dados técnicos entre departamentos.
 
 ---
 
