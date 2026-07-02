@@ -27,17 +27,16 @@ Minha transição a partir da **Engenharia Civil** me proporcionou base analíti
 ![Keycloak](https://img.shields.io/badge/Keycloak-A61C00?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
+
 ### Testes e Qualidade de Código
 ⚠️ Confirme antes de incluir: você usa JUnit 5, PMD, ESLint e Prettier no dia a dia?
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![PMD](https://img.shields.io/badge/PMD-Analyst-AA2222?style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
--->
+
 
 ### Ferramentas e Documentação
-<!-- ⚠️ Confirme antes de incluir: você usa Swagger e Postman? -->
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,7 +60,7 @@ Substituição de fluxos baseados em planilhas por sistema centralizado de gest�
 
 #### 🌐 Arquitetura Multilíngue com Inteligência Artificial
 Criação de sistema de documentação e notas técnicas com suporte a múltiplos idiomas.
-- **Contribuições:** Arquitetura do sistema com suporte a internacionalização (i18n). Implementação de integrações automáticas com sistemas corporativos (SAP) e serviço de IA para tradução técnica e padronização terminológica, com dados estruturados em MongoDB.
+- **Contribuições:** Arquitetura do sistema com suporte a internacionalização (i18n). Implementação de integrações automáticas com sistemas corporativos e serviço de IA para tradução técnica e padronização terminológica, com dados estruturados em MongoDB.
 - **Impacto:** Agilidade na comunicação e distribuição de dados técnicos entre departamentos.
 
 ---
