@@ -29,7 +29,6 @@ Minha transição a partir da **Engenharia Civil** me proporcionou base analíti
 
 
 ### Testes e Qualidade de Código
-⚠️ Confirme antes de incluir: você usa JUnit 5, PMD, ESLint e Prettier no dia a dia?
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![PMD](https://img.shields.io/badge/PMD-Analyst-AA2222?style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
